@@ -1,7 +1,7 @@
 local RunService = game:GetService("RunService")
 local Workspace = game:GetService("Workspace")
 
-local RenderDistance = 1200
+local RenderDistance = 50000
 
 local Camera = Workspace.CurrentCamera
 local RenderStepped = RunService.RenderStepped
